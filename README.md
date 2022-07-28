@@ -1,4 +1,8 @@
-(https://github.com/yunusemrejr/Certificates/blob/main/Coursera%202F8FYZYVPD6Q.pdf)<img width="753" alt="duke" src="https://user-images.githubusercontent.com/64273622/170587764-93c3c1fd-48d2-4e5f-857a-a671696f71d8.png">
+[view as PDF](https://github.com/yunusemrejr/Certificates/blob/main/Coursera%20WKK8X24ECZMX.pdf)<img width="753" alt="duke" src="https://raw.githubusercontent.com/yunusemrejr/Certificates/main/Coursera%20WKK8X24ECZMX-1.png">
+
+[view as PDF](https://github.com/yunusemrejr/Certificates/blob/main/Coursera%202F8FYZYVPD6Q.pdf)<img width="753" alt="duke" src="https://user-images.githubusercontent.com/64273622/170587764-93c3c1fd-48d2-4e5f-857a-a671696f71d8.png">
+
+
 
 ![UC-e338af89-6c86-4b3a-897d-8b83d6854f19](https://user-images.githubusercontent.com/64273622/161111647-b87eaf5f-044f-4fea-97e3-6fb0d9ead39b.jpg)
 ![UC-55ca3bde-b492-4ea6-bf05-893d2812b906](https://user-images.githubusercontent.com/64273622/161111261-7c840a9a-fed7-43ef-9c00-3c275c2ce7b8.jpg)
