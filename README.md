@@ -4,7 +4,7 @@
 
 <img width="753" alt="colorado" src="https://raw.githubusercontent.com/yunusemrejr/Certificates/main/colorado.png">
 
-<img width="753" alt="colorado" src="https://raw.githubusercontent.com/yunusemrejr/Certificates/main/IBM-hardware-and-operatingsYSTEMS.png">
+<img width="753" alt="ibm" src="https://raw.githubusercontent.com/yunusemrejr/Certificates/main/IBM-hardware-and-operatingsYSTEMS.png">
 
 
 ![UC-e338af89-6c86-4b3a-897d-8b83d6854f19](https://user-images.githubusercontent.com/64273622/161111647-b87eaf5f-044f-4fea-97e3-6fb0d9ead39b.jpg)
