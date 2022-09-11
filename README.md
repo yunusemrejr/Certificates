@@ -8,7 +8,9 @@
 
 <img width="753" alt="cervantes" src="https://raw.githubusercontent.com/yunusemrejr/Certificates/main/HopkinsALGEBRA1-1.png">
 
-<img width="753" alt="cervantes" src="https://raw.githubusercontent.com/yunusemrejr/Certificates/main/Unrrrrtitled.png">
+<img width="753" alt="johnhopkins" src="https://raw.githubusercontent.com/yunusemrejr/Certificates/main/Unrrrrtitled.png">
+
+<img width="753" alt="milano" src="https://raw.githubusercontent.com/yunusemrejr/Certificates/main/politecnico-Technologies%20and%20platforms%20for%20Artificial-1.png">
 
 ![UC-e338af89-6c86-4b3a-897d-8b83d6854f19](https://user-images.githubusercontent.com/64273622/161111647-b87eaf5f-044f-4fea-97e3-6fb0d9ead39b.jpg)
 ![UC-55ca3bde-b492-4ea6-bf05-893d2812b906](https://user-images.githubusercontent.com/64273622/161111261-7c840a9a-fed7-43ef-9c00-3c275c2ce7b8.jpg)
