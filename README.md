@@ -26,6 +26,6 @@
 ![UC-5ac9eda9-04df-49df-a96e-6b853dead98d](https://user-images.githubusercontent.com/64273622/161111424-22362d8c-43b1-4a0f-ae7c-ea3d347605f7.jpg)
 ![UC-2e711a1f-3149-462a-886e-d960fd39822a](https://user-images.githubusercontent.com/64273622/161111598-13ad6ab4-509d-400a-b6b8-4bd211805b48.jpg)
 ![UC-79358ed6-4676-4437-a6ca-590734cf8ef8](https://user-images.githubusercontent.com/64273622/161111629-8bb5973e-f968-41fb-81a1-26e43df6c5fc.jpg)
-
+![--](https://raw.githubusercontent.com/yunusemrejr/Certificates/main/YUNUS%20EMRE_600339%20(1)-1.png)
 
 
