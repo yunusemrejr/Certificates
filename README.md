@@ -1,3 +1,5 @@
+ <img width="753" alt="duke" src="https://raw.githubusercontent.com/yunusemrejr/Certificates/refs/heads/main/Screenshot%202024-09-25%20at%2019.56.50.png">
+
 <img width="753" alt="duke" src="https://raw.githubusercontent.com/yunusemrejr/Certificates/main/Coursera%20WKK8X24ECZMX-1.png">
 
 <img width="753" alt="duke" src="https://user-images.githubusercontent.com/64273622/170587764-93c3c1fd-48d2-4e5f-857a-a671696f71d8.png">
